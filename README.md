@@ -47,13 +47,13 @@ The following analyses were performed:
 ---
 
 ## 📁 Project Structure
-.
-├── clean_height_weight.ipynb
-├── clean_text8.ipynb
-├── word2vec_cbow_tf.ipynb
-├── word2vec_skipgram_tf.ipynb
-├── fasttext_pretrained.ipynb
-├── Rapport_Word_Embeddings.ipynb
+
+- clean_height_weight.ipynb
+- clean_text8.ipynb
+- word2vec_cbow_tf.ipynb
+- word2vec_skipgram_tf.ipynb
+- fasttext_pretrained.ipynb
+- Rapport_Word_Embeddings.ipynb
 
 
 ---
